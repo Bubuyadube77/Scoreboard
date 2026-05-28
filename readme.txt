@@ -1,4 +1,4 @@
-My Scoreboard Project
+My Scoreboard Final Project
 
 True Type Fonts: DIGITAL-7 version 1.02
 
